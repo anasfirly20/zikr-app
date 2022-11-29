@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zikr-app/static/css/main.aa4a0054.css",
+    "main.js": "/zikr-app/static/js/main.4a7dfb59.js",
+    "static/js/787.02a932e0.chunk.js": "/zikr-app/static/js/787.02a932e0.chunk.js",
+    "static/media/man-dua.png": "/zikr-app/static/media/man-dua.35329094f4ebe81929aa.png",
+    "index.html": "/zikr-app/index.html",
+    "main.aa4a0054.css.map": "/zikr-app/static/css/main.aa4a0054.css.map",
+    "main.4a7dfb59.js.map": "/zikr-app/static/js/main.4a7dfb59.js.map",
+    "787.02a932e0.chunk.js.map": "/zikr-app/static/js/787.02a932e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4a0054.css",
+    "static/js/main.4a7dfb59.js"
+  ]
+}
