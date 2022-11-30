@@ -6,7 +6,7 @@ import gambar from "./man-dua.png";
 import { ArrowRepeat } from "react-bootstrap-icons";
 import "animate.css";
 
-function App() {
+const App = () => {
   const [count, setCount] = useState(0);
   const [word, setWord] = useState("سُبْحَانَ ٱللَّٰهِ"); //arabic
   const [total, setTotal] = useState(0);
@@ -95,6 +95,6 @@ function App() {
       </footer>
     </div>
   );
-}
+};
 
 export default App;
